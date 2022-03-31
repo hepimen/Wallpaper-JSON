@@ -1,0 +1,22 @@
+{
+    "Ads": [
+        {
+            "select_main_ads": "ADMOB",
+            "select_backup_ads": "APPLOVIN-D",
+            "main_ads_banner": "ca-app-pub-8741523715741529/1768717946",
+            "main_ads_intertitial": "ca-app-pub-8741523715741529/1613601437",
+            "backup_ads_banner": "97719dc5651d53c8",
+            "backup_ads_intertitial": "28ee63745041383e",
+            "interval_intertitial": 5,
+            "initialize_sdk": "",
+            "initialize_sdk_backup_ads": "",
+            "high_paying_keyword_1": "Wallpaper Sambat",
+            "high_paying_keyword_2": "Wallpaper Bacot",
+            "high_paying_keyword_3": "Wallpaper Lucu",
+            "high_paying_keyword_4": "Wallpaper Pekerja",
+            "high_paying_keyword_5": "Wallpaper Marah",
+            "status_app": "0",
+            "link_redirect": "https://"
+        }
+    ]
+}
